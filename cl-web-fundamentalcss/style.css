@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana;
+}
+
+img {
+    width: 125px;
+    padding-right: 15px;
+}
+
+.cardImage {
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+    width: 30%;
+}
+
+.cardContainer {
+    width: 400px;
+    background-color: #45b8d5;
+    border-radius: 25px;
+    border: 4px solid #1f5e83;
+    color: white;
+    display: block;
+    margin: 200px auto;
+
+    overflow: hidden;
+}
+.cardHeader {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: #1f8083;
+}
+
+.cardBody {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #45d5c2;
+    padding-left: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cardAddress {
+    font-size: 0.9rem;
+    color: white;
+}
+
+.cardFooter {
+    background-color: #1f837e;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
