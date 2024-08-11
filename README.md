@@ -1,10 +1,6 @@
 # Mozilla Splash Page
 
-
-
-A simple HTML and CSS project to create a splash page for Mozilla, showcasing their mission and products.
-
-## Features
+![image](https://github.com/user-attachments/assets/0e2ac5a1-ce82-4c80-a353-b94050b4f0aa)
 
 - Responsive design that adapts to different screen sizes
 - Consistent typography using the 'Open Sans' font from Google Fonts
