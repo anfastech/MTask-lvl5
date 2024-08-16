@@ -1,0 +1,22 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-family: sans-serif;
+}
+
+body{
+    overflow: hidden;
+    height: inherit;
+}
+h1{
+    font-size: 2rem;
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding-right: 20px;
+    color: white;
+    text-shadow: 2px 2px 2px white;
+}
